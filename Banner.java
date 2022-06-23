@@ -23,7 +23,6 @@ public class Banner extends Applet implements Runnable
     }
 
     //Function to start the thread
-
     public void start()
 
     {
