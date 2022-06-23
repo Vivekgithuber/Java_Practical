@@ -7,6 +7,7 @@ public class Demo extends Thread {
         System.out.println("Now, inside the run method");
     }
 
+    
     public static void main(String[] args) {
         Demo my_thr_1 = new Demo();
         Demo my_thr_2 = new Demo();
